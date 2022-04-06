@@ -1,0 +1,10 @@
+metadatabbsb: XXXX tls.crt:
+----beginning-----
+some-data-in-first-file
+-----ending----
+some-irrelevent-data
+tls.key:
+----beginning----
+hdjskksjsjsj data-in-second-file
+----ending----
+metadatabbsb: hhsbs
